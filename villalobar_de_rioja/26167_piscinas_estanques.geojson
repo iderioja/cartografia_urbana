@@ -1,0 +1,15 @@
+{"name":"IDERIOJA.IDE_URB_PISCINAS","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96631430525802,42.4891895172058,0],[-2.96625747414592,42.4891985063853,0]]},"properties":{"ID":"5262","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96633908280486,42.4892751705624,0],[-2.96631430525802,42.4891895172058,0]]},"properties":{"ID":"5263","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.9662823733026,42.4892841597898,0],[-2.96633908280486,42.4892751705624,0]]},"properties":{"ID":"5264","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96625747414592,42.4891985063853,0],[-2.9662823733026,42.4892841597898,0]]},"properties":{"ID":"5265","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96466044813024,42.4899342570933,0],[-2.9646087236843,42.4899489207427,0]]},"properties":{"ID":"5266","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96470201916759,42.490014782609,0],[-2.96466044813024,42.4899342570933,0]]},"properties":{"ID":"5267","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96465029466499,42.4900294462769,0],[-2.96470201916759,42.490014782609,0]]},"properties":{"ID":"5268","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.9646087236843,42.4899489207427,0],[-2.96465029466499,42.4900294462769,0]]},"properties":{"ID":"5269","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96492784816148,42.4913554693658,0],[-2.96487441948015,42.4913692320204,0]]},"properties":{"ID":"5270","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96490487639389,42.4913067404511,0],[-2.96492784816148,42.4913554693658,0]]},"properties":{"ID":"5271","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96485156943681,42.4913205031326,0],[-2.96490487639389,42.4913067404511,0]]},"properties":{"ID":"5272","INE_MUN":"26167"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.96487441948015,42.4913692320204,0],[-2.96485156943681,42.4913205031326,0]]},"properties":{"ID":"5273","INE_MUN":"26167"}}
+]}
