@@ -1,0 +1,4 @@
+{"name":"IDERIOJA.IDE_URB_PISCINAS","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.21949053264903,42.3446682513031,0],[-2.21944627199356,42.3446640773955,0],[-2.21942906956214,42.3447199778881,0]]},"properties":{"ID":"5022","INE_MUN":"26053"}}
+]}
