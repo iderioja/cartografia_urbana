@@ -1,0 +1,7 @@
+{"name":"IDERIOJA.IDE_URB_PISCINAS","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.29152072678021,42.2751565697509,0],[-2.29150712341793,42.2751151474032,0]]},"properties":{"ID":"3519","INE_MUN":"26126"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.29145713737738,42.2751713072567,0],[-2.29152072678021,42.2751565697509,0]]},"properties":{"ID":"3520","INE_MUN":"26126"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.29144318035676,42.2751289820997,0],[-2.29145713737738,42.2751713072567,0]]},"properties":{"ID":"3521","INE_MUN":"26126"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.29150712341793,42.2751151474032,0],[-2.29144318035676,42.2751289820997,0]]},"properties":{"ID":"3522","INE_MUN":"26126"}}
+]}
