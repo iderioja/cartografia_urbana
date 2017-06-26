@@ -1,0 +1,4 @@
+{"name":"IDERIOJA.IDE_URB_ACEQUIAS","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-2.71598010229505,42.3199058239211,0],[-2.71592749720636,42.3198916440169,0]]},"properties":{"ID":"110375","INE_MUN":"26086"}}
+]}
