@@ -1,0 +1,8 @@
+{"name":"IDERIOJA.IDE_URB_PISCINAS","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-3.01912726409808,42.5049238099041,0],[-3.01908795463421,42.5049376855007,0]]},"properties":{"ID":"5096","INE_MUN":"26073"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-3.01913469366206,42.5049401993509,0],[-3.01912726409808,42.5049238099041,0]]},"properties":{"ID":"5097","INE_MUN":"26073"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-3.0191190093767,42.5049954980219,0],[-3.01913469366206,42.5049401993509,0]]},"properties":{"ID":"5098","INE_MUN":"26073"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-3.01908869933087,42.5049850562629,0],[-3.0191190093767,42.5049954980219,0]]},"properties":{"ID":"5099","INE_MUN":"26073"}}
+,{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-3.01908795463421,42.5049376855007,0],[-3.01908869933087,42.5049850562629,0]]},"properties":{"ID":"5100","INE_MUN":"26073"}}
+]}
