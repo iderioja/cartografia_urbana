@@ -1,0 +1,17 @@
+{"name":"IDERIOJA.IDE_URB_TXT","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09591328113455,42.0659353934344]},"properties":{"ID":"1186","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"CASTILLO","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.08629046783701,42.0634957987232]},"properties":{"ID":"1187","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"CEMENTERIO","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09360401359154,42.0677307153131]},"properties":{"ID":"1188","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"HELIPUERTO","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09618136120771,42.0659361541186]},"properties":{"ID":"1189","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"CASTILLO","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09220710468759,42.0673213186214]},"properties":{"ID":"1190","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"FRANCISCO DE LAS HERAS","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09220633487057,42.0673329308445]},"properties":{"ID":"1191","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"ESCUELA PRIMARIA","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09224877526158,42.0674846648803]},"properties":{"ID":"1192","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"PARQUE INFANTIL","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09266867328956,42.0665776141316]},"properties":{"ID":"1193","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"PISTA DE DEPORTES","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09204701349696,42.0667992995062]},"properties":{"ID":"1194","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"PARQUE INFANTIL","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09276103922036,42.0671025194665]},"properties":{"ID":"1195","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"FRONTÓN","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09555453624287,42.0647773996415]},"properties":{"ID":"1196","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"AYUNTAMIENTO","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09619114885028,42.0638060259453]},"properties":{"ID":"1197","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"ERMITA DE LA PIEDAD","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09201905741643,42.0661062124867]},"properties":{"ID":"1198","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"CUARTEL GUARDIA CIVIL","TEXT_ANGLE":0}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.09553793592381,42.0655807340454]},"properties":{"ID":"1199","INE_MUN":"26054","TEXT_SIZE":"0.7","TEXT_STRING":"IGLESIA DE SAN PEDRO","TEXT_ANGLE":0}}
+]}
