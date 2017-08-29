@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head lang="es">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Cartografía topográfica urbana de San Vicente de la Sonsierra (La Rioja) - España</title>
+    <style>
+      body, html{
+        height: 100%;
+        border: 0;
+        padding: 0;
+        margin: 0;
+      }
+      #map{
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+  <script>
+    var iderioja_config = {
+	  "localizacion": 1,
+	  "selector_capas": 1,
+      "capa_geojson": [
+        {"nombre": "Acequias",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_acequias.geojson",
+          "estilo": {
+            "color": "#003399",
+            "weight": 1.5,
+            "opacity": 0.4
+          }
+		},
+        {"nombre": "Calles",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_calles.geojson",
+          "estilo": {
+            "color": "#555555",
+            "weight": 1.5,
+            "opacity": 0.3
+          }
+		},
+        {"nombre": "Caminos",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_caminos.geojson",
+          "estilo": {
+            "color": "#702606",
+            "weight": 1.8,
+            "opacity": 0.3
+          }
+		},
+        {"nombre": "Carreteras",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_carreteras.geojson",
+          "estilo": {
+            "color": "#000000",
+            "weight": 2.0,
+            "opacity": 0.3
+          }
+		},
+        {"nombre": "Edificios",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_edificios.geojson",
+          "estilo": {
+            "color": "#000000",
+            "weight": 1.3,
+            "opacity": 0.4
+          }
+		},
+        {"nombre": "ferrocarril",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_ferrocarril.geojson",
+          "estilo": {
+            "color": "#000000",
+            "weight": 1.1,
+            "opacity": 0.6
+          }
+		},
+        {"nombre": "Muros",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_muros.geojson",
+          "estilo": {
+            "color": "#273a41",
+            "weight": 0.5,
+            "opacity": 0.8
+          }
+        },
+        {"nombre": "Piscinas y estanques",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_piscinas_estanques.geojson",
+          "estilo": {
+            "color": "#3333ff",
+            "weight": 1.4,
+            "opacity": 0.4
+          }
+        },
+        {"nombre": "Ríos",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_rios.geojson",
+          "estilo": {
+            "color": "#3366cc",
+            "weight": 1.8,
+            "opacity": 0.5
+          }
+		},
+        {"nombre": "Taludes",
+         "url": "https://raw.githubusercontent.com/iderioja/cartografia_urbana/master/san_vicente_de_la_sonsierra/26142_taludes.geojson",
+          "estilo": {
+            "color": "#8a542f",
+            "weight": 1,
+            "opacity": 0.5
+          }
+        }
+      ]
+    }
+  </script>
+  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
+</html>
